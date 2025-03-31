@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**waelhabbal/waelhabbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>👋 Wael Habbal | Full-Stack</h1>
 
-Here are some ideas to get you started:
+  <p align="center">
+    🚀 Building high-performance apps with React & .NET. <br>
+    👨‍🏫 Professional Trainer: Front-end & .NET.
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech
+
+- React, React Router, Next.js, .NET ASP 
+**Skills:** High-Performance Apps, Full-Stack, Training
+
+---
