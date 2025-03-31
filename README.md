@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>👋 Wael Habbal | Full-Stack</h1>
+  <h1>👋 Wael Habbal</h1>
 
   <p align="center">
     🚀 Building high-performance apps with React & .NET. <br>
