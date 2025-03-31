@@ -14,5 +14,3 @@
 
 - React, React Router, Next.js, .NET ASP 
 **Skills:** High-Performance Apps, Full-Stack, Training
-
----
