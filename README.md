@@ -3,8 +3,8 @@
   <h1>👋 Wael Habbal</h1>
 
   <p align="center">
-    🚀 Building high-performance apps with React & .NET. <br>
-    👨‍🏫 Professional Trainer: Front-end & .NET.
+    🚀 .NET developer optimizing ASP.NET Core performance.  <br>
+    👨‍🏫Instructor in frontend JS and .NET. Committed to efficient, high-quality solutions.
   </p>
 </div>
 
